@@ -37,3 +37,12 @@ Dns Dumpster
 https://dnsdumpster.com/
 
 
+
+
+
+ihaaaaaaaaaaaaaaaa
+http://z0mbie.daemonlab.org/
+https://vx-underground.org/
+https://n0.lol/
+https://0x00sec.org/
+http://rafale.org/
