@@ -63,3 +63,6 @@ https://pbs.twimg.com/media/ErhbC7EXUAAPfqO?format=png&name=large
 https://pbs.twimg.com/media/ErhbDodWMAARW98?format=png&name=large
 https://pbs.twimg.com/media/ErhbEceXMAAZeLF?format=png&name=large
 
+
+OSINT toolkilt
+https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list
