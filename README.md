@@ -67,3 +67,6 @@ https://pbs.twimg.com/media/ErhbEceXMAAZeLF?format=png&name=large
 
 OSINT toolkilt
 https://start.me/p/rx6Qj8/nixintel-s-osint-resource-list
+
+
+Workinkg revshell php windows https://raw.githubusercontent.com/ivan-sincek/php-reverse-shell/master/src/php_reverse_shell.php
