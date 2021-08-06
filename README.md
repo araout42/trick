@@ -11,6 +11,12 @@ https://www.xmind.net/m/2QyGbx/
 revshells
 https://www.revshells.com/
 
+
+ssti (serv side template injection)
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#jinja2---basic-injection
+
+
+
 get .git
 https://github.com/davtur19/DotGit
 
