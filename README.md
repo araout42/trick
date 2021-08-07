@@ -64,6 +64,9 @@ privesc
 https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Linux%20-%20Privilege%20Escalation.md
 https://github.com/wildkindcc/Exploitation
 
+pwn windwow
+https://github.com/samratashok/nishang
+
 
 file upload ckl
 https://pbs.twimg.com/media/ErhbCBAW8AElD5G?format=png&name=large
