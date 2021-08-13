@@ -68,6 +68,14 @@ pwn windwow
 https://github.com/samratashok/nishang
 
 
+
+
+symphony ckl
+https://github.com/synacktiv/eos
+https://www.ambionics.io/blog/symfony-secret-fragment
+
+
+
 file upload ckl
 https://pbs.twimg.com/media/ErhbCBAW8AElD5G?format=png&name=large
 https://pbs.twimg.com/media/ErhbC7EXUAAPfqO?format=png&name=large
