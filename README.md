@@ -15,7 +15,8 @@ https://www.revshells.com/
 ssti (serv side template injection)
 https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection#jinja2---basic-injection
 
-
+get sensitiv endpoint 
+https://www.kitploit.com/2021/11/chopchop-chopchop-is-cli-to-help.html
 
 get .git
 https://github.com/davtur19/DotGit
