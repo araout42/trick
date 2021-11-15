@@ -18,6 +18,8 @@ https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20
 get sensitiv endpoint 
 https://www.kitploit.com/2021/11/chopchop-chopchop-is-cli-to-help.html
 
+
+
 get .git
 https://github.com/davtur19/DotGit
 
@@ -68,7 +70,8 @@ https://github.com/wildkindcc/Exploitation
 pwn windwow
 https://github.com/samratashok/nishang
 
-
+Liens GitHub avec toutes les attaques web : 
+https://github.com/riramar/Web-Attack-Cheat-Sheet
 
 
 symphony ckl
