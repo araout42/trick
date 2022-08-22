@@ -95,3 +95,10 @@ Workinkg revshell php windows https://raw.githubusercontent.com/ivan-sincek/php-
 
 RRR
 https://clement-bouder.fr/blog/
+
+OSINT FRAMEWORK 
+https://github.com/blacklanternsecurity/bbot
+
+
+Pass recover/steal  LaZagne
+https://github.com/AlessandroZ/LaZagne
