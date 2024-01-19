@@ -102,3 +102,12 @@ https://github.com/blacklanternsecurity/bbot
 
 Pass recover/steal  LaZagne
 https://github.com/AlessandroZ/LaZagne
+
+
+
+Malware on steroids : 
+
+https://0xdarkvortex.dev/malware-on-steroids-part-1-simple-cmd-reverse-shell/
+https://0xdarkvortex.dev/malware-on-steroids-part-2-evading-antivirus-in-a-simulated-organizational-environment/
+https://0xdarkvortex.dev/malware-on-steroids-part-3-machine-learning-sandbox-evasion/
+https://0xdarkvortex.dev/malware-on-steroids-part-4-defender-and-symantec-endpoint-protection-evasion/
